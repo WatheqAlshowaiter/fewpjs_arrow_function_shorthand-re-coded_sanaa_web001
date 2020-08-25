@@ -1,1 +1,1 @@
-let d = divide()
+let d = function divide(a,b)=>a/b; 
