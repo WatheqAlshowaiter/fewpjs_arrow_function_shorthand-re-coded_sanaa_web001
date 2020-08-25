@@ -1,1 +1,1 @@
-let d = lab
+let d = divide()
